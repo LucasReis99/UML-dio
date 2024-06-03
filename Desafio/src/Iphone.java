@@ -1,6 +1,6 @@
 
 // Implemente as interfaces
-public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
+public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet{
     // Implementações dos métodos das interfaces
     
     // Implementação dos métodos para o Reprodutor Musical

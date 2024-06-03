@@ -1,4 +1,4 @@
-public interface ReprodutorMusical {
+public interface ReprodutorMusical{
     void reproduzirMusica();
     void pausarMusica();
     void avancarFaixa();
